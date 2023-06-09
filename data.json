@@ -1,0 +1,85 @@
+{
+  "arabica": [
+    {
+      "foto": "images/produk/product_capuchino.jpg",
+      "nama": "Cappuccino Arabica",
+      "size": "500 Gram",
+      "harga": "200.000",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/product_espresso.jpg",
+      "nama": "Pahit Arabica",
+      "size": "100 Gram",
+      "harga": "100.000",
+      "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/product_latte.jpg",
+      "nama": "Latte Arabica",
+      "size": "150 Gram",
+      "harga": "150.000",
+      "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+    }
+  ],
+  "robusta": [
+    {
+      "foto": "images/produk/product_kopi_susu.jpg",
+      "nama": "Kopsus Robusta",
+      "size": "100 Gram",
+      "harga": "500.000",
+      "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/product_latte.jpg",
+      "nama": "Latte Robusta",
+      "size": "150 Gram",
+      "harga": "150.000",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    }
+  ],
+  "icedrink": [
+    {
+      "foto": "images/produk/sweet_potato_bubletea.jpg",
+      "nama": "Sweet Potato Buble Tea",
+      "size": "300 ML",
+      "harga": "40.000",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/stroberry_mint_mojito.jpg",
+      "nama": "Stroberry Mint Mojito",
+      "size": "300 ML",
+      "harga": "45.000",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/rasberry_lemonade.jpg",
+      "nama": "Rasberry Lemonade",
+      "size": "250 ML",
+      "harga": "33.000",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/sakura_fluttering_almond.jpg",
+      "nama": "Sakura Fluttering Almond",
+      "size": "280 ML",
+      "harga": "35.000",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/stroberi_milk_bubletea.jpg",
+      "nama": "Stroberry Milk Buble Tea",
+      "size": "280 ML",
+      "harga": "40.000",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/taro_milk_bubletea.jpg",
+      "nama": "Taro Milk Buble Tea",
+      "size": "300 ML",
+      "harga": "45.000",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    }
+  ]
+}
